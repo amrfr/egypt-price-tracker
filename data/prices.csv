@@ -1,0 +1,238 @@
+date,item,category,city,unit,price_egp
+2024-01-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,3.5
+2024-01-01,Eggs (12),Groceries,Cairo,dozen,65.0
+2024-01-01,Chicken (1kg),Groceries,Cairo,kg,95.0
+2024-01-01,Rice (1kg),Groceries,Cairo,kg,28.0
+2024-01-01,Tomatoes (1kg),Groceries,Cairo,kg,12.0
+2024-01-01,Cooking Oil (1L),Groceries,Cairo,litre,45.0
+2024-01-01,Milk (1L),Groceries,Cairo,litre,30.0
+2024-01-01,Metro Ticket,Transport,Cairo,ticket,8.0
+2024-01-01,Microbus Fare,Transport,Cairo,trip,5.0
+2024-01-01,Petrol 95 (1L),Transport,Cairo,litre,11.0
+2024-01-01,Electricity (100 kWh),Utilities,Cairo,100kwh,55.0
+2024-01-01,Mobile Data (1GB),Utilities,Cairo,gb,12.0
+2024-01-01,Bread (Baladi Loaf),Groceries,Alexandria,loaf,3.5
+2024-01-01,Eggs (12),Groceries,Alexandria,dozen,63.0
+2024-01-01,Chicken (1kg),Groceries,Alexandria,kg,92.0
+2024-01-01,Rice (1kg),Groceries,Alexandria,kg,27.0
+2024-01-01,Tomatoes (1kg),Groceries,Alexandria,kg,11.0
+2024-01-01,Cooking Oil (1L),Groceries,Alexandria,litre,44.0
+2024-01-01,Milk (1L),Groceries,Alexandria,litre,29.0
+2024-02-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,3.5
+2024-02-01,Eggs (12),Groceries,Cairo,dozen,72.0
+2024-02-01,Chicken (1kg),Groceries,Cairo,kg,105.0
+2024-02-01,Rice (1kg),Groceries,Cairo,kg,30.0
+2024-02-01,Tomatoes (1kg),Groceries,Cairo,kg,18.0
+2024-02-01,Cooking Oil (1L),Groceries,Cairo,litre,48.0
+2024-02-01,Milk (1L),Groceries,Cairo,litre,33.0
+2024-02-01,Metro Ticket,Transport,Cairo,ticket,8.0
+2024-02-01,Microbus Fare,Transport,Cairo,trip,5.0
+2024-02-01,Petrol 95 (1L),Transport,Cairo,litre,13.75
+2024-02-01,Electricity (100 kWh),Utilities,Cairo,100kwh,55.0
+2024-02-01,Mobile Data (1GB),Utilities,Cairo,gb,13.0
+2024-02-01,Bread (Baladi Loaf),Groceries,Alexandria,loaf,3.5
+2024-02-01,Eggs (12),Groceries,Alexandria,dozen,70.0
+2024-02-01,Chicken (1kg),Groceries,Alexandria,kg,102.0
+2024-02-01,Rice (1kg),Groceries,Alexandria,kg,29.0
+2024-02-01,Tomatoes (1kg),Groceries,Alexandria,kg,17.0
+2024-02-01,Cooking Oil (1L),Groceries,Alexandria,litre,47.0
+2024-02-01,Milk (1L),Groceries,Alexandria,litre,32.0
+2024-03-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.0
+2024-03-01,Eggs (12),Groceries,Cairo,dozen,80.0
+2024-03-01,Chicken (1kg),Groceries,Cairo,kg,118.0
+2024-03-01,Rice (1kg),Groceries,Cairo,kg,33.0
+2024-03-01,Tomatoes (1kg),Groceries,Cairo,kg,22.0
+2024-03-01,Cooking Oil (1L),Groceries,Cairo,litre,52.0
+2024-03-01,Milk (1L),Groceries,Cairo,litre,36.0
+2024-03-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-03-01,Microbus Fare,Transport,Cairo,trip,7.0
+2024-03-01,Petrol 95 (1L),Transport,Cairo,litre,13.75
+2024-03-01,Electricity (100 kWh),Utilities,Cairo,100kwh,55.0
+2024-03-01,Mobile Data (1GB),Utilities,Cairo,gb,14.0
+2024-03-01,Bread (Baladi Loaf),Groceries,Alexandria,loaf,4.0
+2024-03-01,Eggs (12),Groceries,Alexandria,dozen,78.0
+2024-03-01,Chicken (1kg),Groceries,Alexandria,kg,115.0
+2024-03-01,Rice (1kg),Groceries,Alexandria,kg,32.0
+2024-03-01,Tomatoes (1kg),Groceries,Alexandria,kg,20.0
+2024-03-01,Cooking Oil (1L),Groceries,Alexandria,litre,50.0
+2024-03-01,Milk (1L),Groceries,Alexandria,litre,35.0
+2024-04-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.0
+2024-04-01,Eggs (12),Groceries,Cairo,dozen,78.0
+2024-04-01,Chicken (1kg),Groceries,Cairo,kg,112.0
+2024-04-01,Rice (1kg),Groceries,Cairo,kg,32.0
+2024-04-01,Tomatoes (1kg),Groceries,Cairo,kg,15.0
+2024-04-01,Cooking Oil (1L),Groceries,Cairo,litre,51.0
+2024-04-01,Milk (1L),Groceries,Cairo,litre,36.0
+2024-04-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-04-01,Microbus Fare,Transport,Cairo,trip,7.0
+2024-04-01,Petrol 95 (1L),Transport,Cairo,litre,13.75
+2024-04-01,Electricity (100 kWh),Utilities,Cairo,100kwh,65.0
+2024-04-01,Mobile Data (1GB),Utilities,Cairo,gb,14.0
+2024-05-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.0
+2024-05-01,Eggs (12),Groceries,Cairo,dozen,82.0
+2024-05-01,Chicken (1kg),Groceries,Cairo,kg,120.0
+2024-05-01,Rice (1kg),Groceries,Cairo,kg,34.0
+2024-05-01,Tomatoes (1kg),Groceries,Cairo,kg,10.0
+2024-05-01,Cooking Oil (1L),Groceries,Cairo,litre,53.0
+2024-05-01,Milk (1L),Groceries,Cairo,litre,37.0
+2024-05-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-05-01,Microbus Fare,Transport,Cairo,trip,7.0
+2024-05-01,Petrol 95 (1L),Transport,Cairo,litre,13.75
+2024-05-01,Electricity (100 kWh),Utilities,Cairo,100kwh,65.0
+2024-05-01,Mobile Data (1GB),Utilities,Cairo,gb,14.0
+2024-06-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.0
+2024-06-01,Eggs (12),Groceries,Cairo,dozen,85.0
+2024-06-01,Chicken (1kg),Groceries,Cairo,kg,125.0
+2024-06-01,Rice (1kg),Groceries,Cairo,kg,35.0
+2024-06-01,Tomatoes (1kg),Groceries,Cairo,kg,9.0
+2024-06-01,Cooking Oil (1L),Groceries,Cairo,litre,54.0
+2024-06-01,Milk (1L),Groceries,Cairo,litre,38.0
+2024-06-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-06-01,Microbus Fare,Transport,Cairo,trip,7.0
+2024-06-01,Petrol 95 (1L),Transport,Cairo,litre,13.75
+2024-06-01,Electricity (100 kWh),Utilities,Cairo,100kwh,65.0
+2024-06-01,Mobile Data (1GB),Utilities,Cairo,gb,15.0
+2024-07-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.5
+2024-07-01,Eggs (12),Groceries,Cairo,dozen,90.0
+2024-07-01,Chicken (1kg),Groceries,Cairo,kg,130.0
+2024-07-01,Rice (1kg),Groceries,Cairo,kg,36.0
+2024-07-01,Tomatoes (1kg),Groceries,Cairo,kg,8.0
+2024-07-01,Cooking Oil (1L),Groceries,Cairo,litre,56.0
+2024-07-01,Milk (1L),Groceries,Cairo,litre,40.0
+2024-07-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-07-01,Microbus Fare,Transport,Cairo,trip,8.0
+2024-07-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2024-07-01,Electricity (100 kWh),Utilities,Cairo,100kwh,75.0
+2024-07-01,Mobile Data (1GB),Utilities,Cairo,gb,15.0
+2024-08-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.5
+2024-08-01,Eggs (12),Groceries,Cairo,dozen,92.0
+2024-08-01,Chicken (1kg),Groceries,Cairo,kg,132.0
+2024-08-01,Rice (1kg),Groceries,Cairo,kg,37.0
+2024-08-01,Tomatoes (1kg),Groceries,Cairo,kg,11.0
+2024-08-01,Cooking Oil (1L),Groceries,Cairo,litre,57.0
+2024-08-01,Milk (1L),Groceries,Cairo,litre,41.0
+2024-08-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-08-01,Microbus Fare,Transport,Cairo,trip,8.0
+2024-08-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2024-08-01,Electricity (100 kWh),Utilities,Cairo,100kwh,75.0
+2024-08-01,Mobile Data (1GB),Utilities,Cairo,gb,15.0
+2024-09-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,4.5
+2024-09-01,Eggs (12),Groceries,Cairo,dozen,88.0
+2024-09-01,Chicken (1kg),Groceries,Cairo,kg,128.0
+2024-09-01,Rice (1kg),Groceries,Cairo,kg,37.0
+2024-09-01,Tomatoes (1kg),Groceries,Cairo,kg,14.0
+2024-09-01,Cooking Oil (1L),Groceries,Cairo,litre,57.0
+2024-09-01,Milk (1L),Groceries,Cairo,litre,41.0
+2024-09-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-09-01,Microbus Fare,Transport,Cairo,trip,8.0
+2024-09-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2024-09-01,Electricity (100 kWh),Utilities,Cairo,100kwh,75.0
+2024-09-01,Mobile Data (1GB),Utilities,Cairo,gb,16.0
+2024-10-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.0
+2024-10-01,Eggs (12),Groceries,Cairo,dozen,95.0
+2024-10-01,Chicken (1kg),Groceries,Cairo,kg,140.0
+2024-10-01,Rice (1kg),Groceries,Cairo,kg,40.0
+2024-10-01,Tomatoes (1kg),Groceries,Cairo,kg,16.0
+2024-10-01,Cooking Oil (1L),Groceries,Cairo,litre,60.0
+2024-10-01,Milk (1L),Groceries,Cairo,litre,44.0
+2024-10-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-10-01,Microbus Fare,Transport,Cairo,trip,8.0
+2024-10-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2024-10-01,Electricity (100 kWh),Utilities,Cairo,100kwh,75.0
+2024-10-01,Mobile Data (1GB),Utilities,Cairo,gb,16.0
+2024-11-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.0
+2024-11-01,Eggs (12),Groceries,Cairo,dozen,98.0
+2024-11-01,Chicken (1kg),Groceries,Cairo,kg,145.0
+2024-11-01,Rice (1kg),Groceries,Cairo,kg,41.0
+2024-11-01,Tomatoes (1kg),Groceries,Cairo,kg,19.0
+2024-11-01,Cooking Oil (1L),Groceries,Cairo,litre,62.0
+2024-11-01,Milk (1L),Groceries,Cairo,litre,45.0
+2024-11-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-11-01,Microbus Fare,Transport,Cairo,trip,8.0
+2024-11-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2024-11-01,Electricity (100 kWh),Utilities,Cairo,100kwh,75.0
+2024-11-01,Mobile Data (1GB),Utilities,Cairo,gb,16.0
+2024-12-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.0
+2024-12-01,Eggs (12),Groceries,Cairo,dozen,105.0
+2024-12-01,Chicken (1kg),Groceries,Cairo,kg,150.0
+2024-12-01,Rice (1kg),Groceries,Cairo,kg,43.0
+2024-12-01,Tomatoes (1kg),Groceries,Cairo,kg,22.0
+2024-12-01,Cooking Oil (1L),Groceries,Cairo,litre,64.0
+2024-12-01,Milk (1L),Groceries,Cairo,litre,47.0
+2024-12-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2024-12-01,Microbus Fare,Transport,Cairo,trip,8.0
+2024-12-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2024-12-01,Electricity (100 kWh),Utilities,Cairo,100kwh,75.0
+2024-12-01,Mobile Data (1GB),Utilities,Cairo,gb,17.0
+2025-01-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.0
+2025-01-01,Eggs (12),Groceries,Cairo,dozen,110.0
+2025-01-01,Chicken (1kg),Groceries,Cairo,kg,155.0
+2025-01-01,Rice (1kg),Groceries,Cairo,kg,45.0
+2025-01-01,Tomatoes (1kg),Groceries,Cairo,kg,20.0
+2025-01-01,Cooking Oil (1L),Groceries,Cairo,litre,65.0
+2025-01-01,Milk (1L),Groceries,Cairo,litre,48.0
+2025-01-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2025-01-01,Microbus Fare,Transport,Cairo,trip,8.0
+2025-01-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2025-01-01,Electricity (100 kWh),Utilities,Cairo,100kwh,85.0
+2025-01-01,Mobile Data (1GB),Utilities,Cairo,gb,17.0
+2025-02-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.0
+2025-02-01,Eggs (12),Groceries,Cairo,dozen,108.0
+2025-02-01,Chicken (1kg),Groceries,Cairo,kg,152.0
+2025-02-01,Rice (1kg),Groceries,Cairo,kg,44.0
+2025-02-01,Tomatoes (1kg),Groceries,Cairo,kg,18.0
+2025-02-01,Cooking Oil (1L),Groceries,Cairo,litre,65.0
+2025-02-01,Milk (1L),Groceries,Cairo,litre,48.0
+2025-02-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2025-02-01,Microbus Fare,Transport,Cairo,trip,8.0
+2025-02-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2025-02-01,Electricity (100 kWh),Utilities,Cairo,100kwh,85.0
+2025-02-01,Mobile Data (1GB),Utilities,Cairo,gb,17.0
+2025-03-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.5
+2025-03-01,Eggs (12),Groceries,Cairo,dozen,115.0
+2025-03-01,Chicken (1kg),Groceries,Cairo,kg,160.0
+2025-03-01,Rice (1kg),Groceries,Cairo,kg,47.0
+2025-03-01,Tomatoes (1kg),Groceries,Cairo,kg,25.0
+2025-03-01,Cooking Oil (1L),Groceries,Cairo,litre,68.0
+2025-03-01,Milk (1L),Groceries,Cairo,litre,50.0
+2025-03-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2025-03-01,Microbus Fare,Transport,Cairo,trip,10.0
+2025-03-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2025-03-01,Electricity (100 kWh),Utilities,Cairo,100kwh,85.0
+2025-03-01,Mobile Data (1GB),Utilities,Cairo,gb,18.0
+2025-04-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.5
+2025-04-01,Eggs (12),Groceries,Cairo,dozen,112.0
+2025-04-01,Chicken (1kg),Groceries,Cairo,kg,158.0
+2025-04-01,Rice (1kg),Groceries,Cairo,kg,46.0
+2025-04-01,Tomatoes (1kg),Groceries,Cairo,kg,14.0
+2025-04-01,Cooking Oil (1L),Groceries,Cairo,litre,67.0
+2025-04-01,Milk (1L),Groceries,Cairo,litre,50.0
+2025-04-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2025-04-01,Microbus Fare,Transport,Cairo,trip,10.0
+2025-04-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2025-04-01,Electricity (100 kWh),Utilities,Cairo,100kwh,85.0
+2025-04-01,Mobile Data (1GB),Utilities,Cairo,gb,18.0
+2025-05-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,5.5
+2025-05-01,Eggs (12),Groceries,Cairo,dozen,118.0
+2025-05-01,Chicken (1kg),Groceries,Cairo,kg,162.0
+2025-05-01,Rice (1kg),Groceries,Cairo,kg,48.0
+2025-05-01,Tomatoes (1kg),Groceries,Cairo,kg,11.0
+2025-05-01,Cooking Oil (1L),Groceries,Cairo,litre,68.0
+2025-05-01,Milk (1L),Groceries,Cairo,litre,51.0
+2025-05-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2025-05-01,Microbus Fare,Transport,Cairo,trip,10.0
+2025-05-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2025-05-01,Electricity (100 kWh),Utilities,Cairo,100kwh,85.0
+2025-05-01,Mobile Data (1GB),Utilities,Cairo,gb,18.0
+2025-06-01,Bread (Baladi Loaf),Groceries,Cairo,loaf,6.0
+2025-06-01,Eggs (12),Groceries,Cairo,dozen,125.0
+2025-06-01,Chicken (1kg),Groceries,Cairo,kg,170.0
+2025-06-01,Rice (1kg),Groceries,Cairo,kg,50.0
+2025-06-01,Tomatoes (1kg),Groceries,Cairo,kg,10.0
+2025-06-01,Cooking Oil (1L),Groceries,Cairo,litre,72.0
+2025-06-01,Milk (1L),Groceries,Cairo,litre,54.0
+2025-06-01,Metro Ticket,Transport,Cairo,ticket,10.0
+2025-06-01,Microbus Fare,Transport,Cairo,trip,10.0
+2025-06-01,Petrol 95 (1L),Transport,Cairo,litre,17.0
+2025-06-01,Electricity (100 kWh),Utilities,Cairo,100kwh,95.0
+2025-06-01,Mobile Data (1GB),Utilities,Cairo,gb,19.0
