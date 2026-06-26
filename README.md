@@ -110,4 +110,4 @@ GROUP BY city;
 ## Author
 
 **Amr Elhamady** · Electrical & Electronics Engineering · Coventry University, Egypt  
-[LinkedIn](https://linkedin.com/in/amr-elhamady) · [GitHub](https://github.com/amrfr)
+[LinkedIn](https://linkedin.com/in/amrfr) · [GitHub](https://github.com/amrfr)
